@@ -1,41 +1,6 @@
 {
   "tools": [
     {
-      "name": "游戏加速器",
-      "description": "减少游戏延迟，提升操作体验",
-      "icon": "🎮",
-      "iconColor": "#ff6b6b",
-      "downloadUrl": "https://your-site.com/mobile/game-accelerator"
-    },
-    {
-      "name": "手机性能监控",
-      "description": "实时监控CPU、GPU、温度",
-      "icon": "📱",
-      "iconColor": "#a55eea",
-      "downloadUrl": "https://your-site.com/mobile/performance-monitor"
-    },
-    {
-      "name": "瞄准辅助",
-      "description": "提升射击游戏准确度",
-      "icon": "🎯",
-      "iconColor": "#26de81",
-      "downloadUrl": "https://your-site.com/mobile/aim-assist"
-    },
-    {
-      "name": "游戏录屏",
-      "description": "高清录制游戏精彩瞬间",
-      "icon": "📹",
-      "iconColor": "#fd79a8",
-      "downloadUrl": "https://your-site.com/mobile/game-recorder"
-    },
-    {
-      "name": "游戏修改器",
-      "description": "修改游戏参数和数值",
-      "icon": "🔧",
-      "iconColor": "#fdcb6e",
-      "downloadUrl": "https://your-site.com/mobile/game-modifier"
-    },
-    {
       "name": "防封检测",
       "description": "检测游戏环境安全性",
       "icon": "🛡️",
