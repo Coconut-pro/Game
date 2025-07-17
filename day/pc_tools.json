@@ -1,0 +1,25 @@
+{
+  "tools": [
+    {
+      "name": "游戏优化大师",
+      "description": "优化系统性能，提升游戏帧率",
+      "icon": "🖥️",
+      "iconColor": "#6c5ce7",
+      "downloadUrl": "https://your-site.com/pc/game-optimizer"
+    },
+    {
+      "name": "FPS辅助工具",
+      "description": "射击游戏专用辅助功能",
+      "icon": "🎯",
+      "iconColor": "#00b894",
+      "downloadUrl": "https://your-site.com/pc/fps-assistant"
+    },
+    {
+      "name": "硬件监控",
+      "description": "实时显示CPU、GPU使用率",
+      "icon": "📊",
+      "iconColor": "#e17055",
+      "downloadUrl": "https://your-site.com/pc/hardware-monitor"
+    }
+  ]
+}
