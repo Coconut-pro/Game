@@ -1,144 +1,68 @@
 {
   "tools": [
     {
-      "name": "防封检测",
-      "description": "检测游戏环境安全性",
-      "icon": "🛡️",
-      "iconColor": "#74b9ff",
-      "downloadUrl": "https://your-site.com/mobile/anti-ban"
-    },
-    {
-      "name": "帧率显示器",
-      "description": "实时显示游戏帧率和延迟",
-      "icon": "📊",
-      "iconColor": "#00cec9",
-      "downloadUrl": "https://your-site.com/mobile/fps-display"
-    },
-    {
-      "name": "游戏音效增强",
-      "description": "增强游戏音效和环绕声",
-      "icon": "🎵",
-      "iconColor": "#ff7675",
-      "downloadUrl": "https://your-site.com/mobile/audio-enhancer"
-    },
-    {
-      "name": "触控优化",
-      "description": "优化触控响应和灵敏度",
-      "icon": "⚡",
-      "iconColor": "#ffeaa7",
-      "downloadUrl": "https://your-site.com/mobile/touch-optimizer"
-    },
-    {
-      "name": "温度监控",
-      "description": "监控手机温度，防止过热",
-      "icon": "🔥",
-      "iconColor": "#81ecec",
-      "downloadUrl": "https://your-site.com/mobile/temp-monitor"
-    },
-    {
-      "name": "手柄映射",
-      "description": "支持外接手柄按键映射",
+      "name": "王者荣耀画质修改器",
+      "description": "提升王者荣耀游戏画面质量，支持120帧模式",
       "icon": "🎮",
-      "iconColor": "#fab1a0",
-      "downloadUrl": "https://your-site.com/mobile/controller-mapping"
+      "iconColor": "#ff6b6b",
+      "downloadUrl": "https://example.com/mobile/wzry-graphics",
+      "date": "07.18"
     },
     {
-      "name": "网络优化",
-      "description": "优化网络连接，减少掉线",
-      "icon": "🌐",
-      "iconColor": "#a29bfe",
-      "downloadUrl": "https://your-site.com/mobile/network-optimizer"
-    },
-    {
-      "name": "屏幕录制",
-      "description": "高质量屏幕录制工具",
-      "icon": "📱",
-      "iconColor": "#fd79a8",
-      "downloadUrl": "https://your-site.com/mobile/screen-recorder"
-    },
-    {
-      "name": "准星自定义",
-      "description": "自定义游戏准星样式",
+      "name": "和平精英瞄准辅助",
+      "description": "提升射击游戏准确度，智能瞄准系统",
       "icon": "🎯",
-      "iconColor": "#55a3ff",
-      "downloadUrl": "https://your-site.com/mobile/crosshair-custom"
+      "iconColor": "#26de81",
+      "downloadUrl": "https://example.com/mobile/pubg-aim",
+      "date": "07.18"
     },
     {
-      "name": "画质增强",
-      "description": "提升游戏画质和清晰度",
-      "icon": "💎",
-      "iconColor": "#ff9ff3",
-      "downloadUrl": "https://your-site.com/mobile/graphics-enhancer"
+      "name": "手机性能监控大师",
+      "description": "实时监控CPU、GPU、温度，优化游戏性能",
+      "icon": "📱",
+      "iconColor": "#a55eea",
+      "downloadUrl": "https://example.com/mobile/performance-monitor",
+      "date": "07.18"
     },
     {
-      "name": "自动点击器",
-      "description": "自动化游戏操作和点击",
-      "icon": "👆",
-      "iconColor": "#e84393",
-      "downloadUrl": "https://your-site.com/mobile/auto-clicker"
-    },
-    {
-      "name": "游戏变速器",
-      "description": "调节游戏运行速度",
-      "icon": "⏩",
-      "iconColor": "#00b894",
-      "downloadUrl": "https://your-site.com/mobile/game-speed"
-    },
-    {
-      "name": "内存清理",
-      "description": "释放内存提升游戏性能",
-      "icon": "🧹",
-      "iconColor": "#74b9ff",
-      "downloadUrl": "https://your-site.com/mobile/memory-cleaner"
-    },
-    {
-      "name": "游戏键盘",
-      "description": "专业游戏虚拟键盘",
-      "icon": "⌨️",
-      "iconColor": "#fdcb6e",
-      "downloadUrl": "https://your-site.com/mobile/game-keyboard"
-    },
-    {
-      "name": "陀螺仪校准",
-      "description": "校准陀螺仪提升操作精度",
-      "icon": "🎛️",
-      "iconColor": "#ff7675",
-      "downloadUrl": "https://your-site.com/mobile/gyroscope-calibration"
-    },
-    {
-      "name": "游戏助手",
-      "description": "游戏攻略和实用工具集合",
-      "icon": "🎪",
-      "iconColor": "#a29bfe",
-      "downloadUrl": "https://your-site.com/mobile/game-assistant"
-    },
-    {
-      "name": "电池优化",
-      "description": "延长游戏续航时间",
-      "icon": "🔋",
-      "iconColor": "#00cec9",
-      "downloadUrl": "https://your-site.com/mobile/battery-optimizer"
-    },
-    {
-      "name": "游戏截图",
-      "description": "快速截图和图片编辑",
-      "icon": "📸",
+      "name": "游戏加速器Pro",
+      "description": "减少游戏延迟，提升网络连接稳定性",
+      "icon": "⚡",
       "iconColor": "#fd79a8",
-      "downloadUrl": "https://your-site.com/mobile/screenshot-tool"
+      "downloadUrl": "https://example.com/mobile/game-accelerator",
+      "date": "07.17"
     },
     {
-      "name": "语音包变换",
-      "description": "更换游戏角色语音包",
-      "icon": "🎭",
-      "iconColor": "#e17055",
-      "downloadUrl": "https://your-site.com/mobile/voice-pack"
+      "name": "原神自动钓鱼",
+      "description": "原神游戏自动钓鱼辅助工具",
+      "icon": "🎣",
+      "iconColor": "#00b894",
+      "downloadUrl": "https://example.com/mobile/genshin-fishing",
+      "date": "07.17"
     },
     {
-      "name": "游戏直播",
-      "description": "手机游戏直播推流工具",
-      "icon": "📺",
+      "name": "明日方舟自动刷图",
+      "description": "明日方舟自动刷关卡，解放双手",
+      "icon": "🤖",
       "iconColor": "#6c5ce7",
-      "downloadUrl": "https://your-site.com/mobile/live-streaming"
+      "downloadUrl": "https://example.com/mobile/arknights-auto",
+      "date": "07.17"
+    },
+    {
+      "name": "崩坏3画质增强",
+      "description": "提升崩坏3游戏画面效果和流畅度",
+      "icon": "✨",
+      "iconColor": "#e17055",
+      "downloadUrl": "https://example.com/mobile/honkai-graphics",
+      "date": "07.16"
+    },
+    {
+      "name": "手游录屏大师",
+      "description": "高清录制手游画面，支持直播推流",
+      "icon": "📹",
+      "iconColor": "#74b9ff",
+      "downloadUrl": "https://example.com/mobile/screen-recorder",
+      "date": "07.16"
     }
   ]
 }
