@@ -10,6 +10,33 @@
       "instructions": "国际服和平精英直装破解，稳定性自测"
     },
     {
+      "name": "超自然行动纯C",
+      "description": "超自然行动纯C辅助",
+      "icon": "🎯",
+      "iconColor": "#26de81",
+      "downloadUrl": "https://www.123912.com/s/dsYvjv-DwPZh",
+      "date": "07.17",
+      "instructions": "超自然行动 小熊猫纯C1.3\n功能介绍\n绘制 导航\n除雾 范围\n铲子 队友\n皮鞭子范围\n桃木范围\n刀范围\n人物虚拟传送"
+    },
+    {
+      "name": "香肠派对辅助",
+      "description": "香肠派对公益辅助",
+      "icon": "📱",
+      "iconColor": "#a55eea",
+      "downloadUrl": "https://www.123865.com/s/AApFjv-fZsGh",
+      "date": "07.17",
+      "instructions": "香肠派对公益辅助，稳定性自测"
+    },
+    {
+      "name": "香肠派对直装辅助",
+      "description": "香肠派对水花直装公益",
+      "icon": "📱",
+      "iconColor": "#a55eea",
+      "downloadUrl": "https://www.123684.com/s/2iCbVv-NWkKd",
+      "date": "07.17",
+      "instructions": "香肠派对公益辅助，稳定性自测"
+    },
+    {
       "name": "光遇国际服",
       "description": "樱渊全物品解锁",
       "icon": "🎯",
@@ -28,44 +55,31 @@
       "instructions": "王者荣耀gg修改器减CD脚本"
     },
     {
-      "name": "游戏加速器Pro",
-      "description": "减少游戏延迟，提升网络连接稳定性",
+      "name": "方块战场脚本",
+      "description": "方块战场玉儿多功能脚本",
       "icon": "⚡",
       "iconColor": "#fd79a8",
-      "downloadUrl": "https://example.com/mobile/game-accelerator",
-      "date": "07.17"
+      "downloadUrl": "https://www.123865.com/s/UHbzVv-xWuov",
+      "date": "07.17",
+      "instructions": "方块战场玉儿多功能脚本,稳定性自测"
     },
     {
-      "name": "原神自动钓鱼",
-      "description": "原神游戏自动钓鱼辅助工具",
-      "icon": "🎣",
-      "iconColor": "#00b894",
-      "downloadUrl": "https://example.com/mobile/genshin-fishing",
-      "date": "07.17"
+      "name": "巅峰极速脚本",
+      "description": "巅峰极速玉儿多功能脚本",
+      "icon": "📱",
+      "iconColor": "#fd79a8",
+      "downloadUrl": "https://www.123865.com/s/UHbzVv-xWuov",
+      "date": "07.17",
+      "instructions": "巅峰极速玉儿多功能脚本,稳定性自测"
     },
     {
-      "name": "明日方舟自动刷图",
-      "description": "明日方舟自动刷关卡，解放双手",
-      "icon": "🤖",
-      "iconColor": "#6c5ce7",
-      "downloadUrl": "https://example.com/mobile/arknights-auto",
-      "date": "07.17"
-    },
-    {
-      "name": "崩坏3画质增强",
-      "description": "提升崩坏3游戏画面效果和流畅度",
+      "name": "荒野行动脚本",
+      "description": "荒野行动玉儿多功能脚本",
       "icon": "✨",
-      "iconColor": "#e17055",
-      "downloadUrl": "https://example.com/mobile/honkai-graphics",
-      "date": "07.16"
-    },
-    {
-      "name": "手游录屏大师",
-      "description": "高清录制手游画面，支持直播推流",
-      "icon": "📹",
-      "iconColor": "#74b9ff",
-      "downloadUrl": "https://example.com/mobile/screen-recorder",
-      "date": "07.16"
+      "iconColor": "#fd79a8",
+      "downloadUrl": "https://www.123865.com/s/UHbzVv-xWuov",
+      "date": "07.17",
+      "instructions": "荒野行动玉儿多功能脚本,稳定性自测"
     }
   ]
 }
