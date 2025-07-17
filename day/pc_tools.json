@@ -20,6 +20,160 @@
       "icon": "📊",
       "iconColor": "#e17055",
       "downloadUrl": "https://your-site.com/pc/hardware-monitor"
+    },
+    {
+      "name": "直播助手",
+      "description": "一键开启游戏直播",
+      "icon": "📺",
+      "iconColor": "#fd79a8",
+      "downloadUrl": "https://your-site.com/pc/streaming-helper"
+    },
+    {
+      "name": "语音变声器",
+      "description": "实时语音变声功能",
+      "icon": "🎤",
+      "iconColor": "#74b9ff",
+      "downloadUrl": "https://your-site.com/pc/voice-changer"
+    },
+    {
+      "name": "游戏聊天增强",
+      "description": "增强游戏内聊天功能",
+      "icon": "💬",
+      "iconColor": "#a29bfe",
+      "downloadUrl": "https://your-site.com/pc/chat-enhancer"
+    },
+    {
+      "name": "游戏手柄驱动",
+      "description": "支持各种游戏手柄驱动",
+      "icon": "🎮",
+      "iconColor": "#ff6b6b",
+      "downloadUrl": "https://your-site.com/pc/controller-driver"
+    },
+    {
+      "name": "系统调优工具",
+      "description": "一键优化系统游戏性能",
+      "icon": "⚙️",
+      "iconColor": "#ffeaa7",
+      "downloadUrl": "https://your-site.com/pc/system-tuner"
+    },
+    {
+      "name": "网络加速器",
+      "description": "专业游戏网络加速服务",
+      "icon": "🌐",
+      "iconColor": "#81ecec",
+      "downloadUrl": "https://your-site.com/pc/network-accelerator"
+    },
+    {
+      "name": "音频增强器",
+      "description": "提升游戏音效体验",
+      "icon": "🔊",
+      "iconColor": "#fab1a0",
+      "downloadUrl": "https://your-site.com/pc/audio-enhancer"
+    },
+    {
+      "name": "鼠标宏设置",
+      "description": "自定义鼠标按键宏命令",
+      "icon": "🖱️",
+      "iconColor": "#ff9ff3",
+      "downloadUrl": "https://your-site.com/pc/mouse-macro"
+    },
+    {
+      "name": "性能分析器",
+      "description": "分析游戏性能瓶颈",
+      "icon": "📈",
+      "iconColor": "#55a3ff",
+      "downloadUrl": "https://your-site.com/pc/performance-analyzer"
+    },
+    {
+      "name": "游戏录像工具",
+      "description": "专业游戏录像和剪辑",
+      "icon": "🎬",
+      "iconColor": "#fd79a8",
+      "downloadUrl": "https://your-site.com/pc/game-recorder"
+    },
+    {
+      "name": "游戏修复工具",
+      "description": "修复常见游戏问题",
+      "icon": "🔧",
+      "iconColor": "#00cec9",
+      "downloadUrl": "https://your-site.com/pc/game-fixer"
+    },
+    {
+      "name": "反作弊检测",
+      "description": "检测和防护游戏作弊",
+      "icon": "🛡️",
+      "iconColor": "#ff7675",
+      "downloadUrl": "https://your-site.com/pc/anti-cheat"
+    },
+    {
+      "name": "多开管理器",
+      "description": "管理多个游戏实例",
+      "icon": "💻",
+      "iconColor": "#a29bfe",
+      "downloadUrl": "https://your-site.com/pc/multi-instance"
+    },
+    {
+      "name": "准星辅助工具",
+      "description": "自定义游戏准星显示",
+      "icon": "🎯",
+      "iconColor": "#fdcb6e",
+      "downloadUrl": "https://your-site.com/pc/crosshair-tool"
+    },
+    {
+      "name": "键盘映射器",
+      "description": "自定义键盘按键映射",
+      "icon": "⌨️",
+      "iconColor": "#e84393",
+      "downloadUrl": "https://your-site.com/pc/keyboard-mapper"
+    },
+    {
+      "name": "游戏启动器",
+      "description": "快速启动和管理游戏",
+      "icon": "🚀",
+      "iconColor": "#00b894",
+      "downloadUrl": "https://your-site.com/pc/game-launcher"
+    },
+    {
+      "name": "显卡超频工具",
+      "description": "安全超频显卡提升性能",
+      "icon": "⚡",
+      "iconColor": "#fdcb6e",
+      "downloadUrl": "https://your-site.com/pc/gpu-overclock"
+    },
+    {
+      "name": "内存清理器",
+      "description": "释放内存提升游戏流畅度",
+      "icon": "🧹",
+      "iconColor": "#74b9ff",
+      "downloadUrl": "https://your-site.com/pc/memory-cleaner"
+    },
+    {
+      "name": "游戏截图工具",
+      "description": "高质量游戏截图和编辑",
+      "icon": "📸",
+      "iconColor": "#fd79a8",
+      "downloadUrl": "https://your-site.com/pc/screenshot-tool"
+    },
+    {
+      "name": "温度监控器",
+      "description": "监控硬件温度防止过热",
+      "icon": "🌡️",
+      "iconColor": "#ff7675",
+      "downloadUrl": "https://your-site.com/pc/temp-monitor"
+    },
+    {
+      "name": "游戏时间统计",
+      "description": "统计和管理游戏时间",
+      "icon": "⏰",
+      "iconColor": "#a29bfe",
+      "downloadUrl": "https://your-site.com/pc/time-tracker"
+    },
+    {
+      "name": "虚拟桌面管理",
+      "description": "为游戏创建独立桌面环境",
+      "icon": "🖼️",
+      "iconColor": "#00cec9",
+      "downloadUrl": "https://your-site.com/pc/virtual-desktop"
     }
   ]
 }
