@@ -1,6 +1,42 @@
 {
   "tools": [
     {
+      "name": "香肠派对towel公益插件辅助",
+      "description": "香肠派对 towel 公益插件辅助",
+      "icon": "📱",
+      "iconColor": "#a55eea",
+      "downloadUrl": "https://pan.xunlei.com/s/VOVSV3P9_wSUsqawew3xewZSA1?pwd=m2hx#",
+      "date": "07.18",
+      "instructions": "香肠派对 towel 公益插件辅助\n#香肠派对 #插件 #辅助 #towel"
+    },
+    {
+      "name": "和平精英小黄人公益渲染漏打",
+      "description": "更新优化二次渲染线程，更新绘图UI更加简洁，更新颜色调节、自瞄调节、物资绘制",
+      "icon": "🎮",
+      "iconColor": "#ff6b6b",
+      "downloadUrl": "https://pan.xunlei.com/s/VOVSUHLQL8qAx5s7vkZ7FEsfA1?pwd=3cpe#",
+      "date": "07.18",
+      "instructions": "和平精英小黄人公益渲染漏打\n更新优化二次渲染线程\n更新绘图UI更加简洁\n更新颜色调节 自瞄调节 物资绘制\n#和平精英 #内核 #小黄人"
+    },
+    {
+      "name": "超自然行动组 凉墨公益插件",
+      "description": "只适配1.16.30.001版本，适配框架 root 虚拟机",
+      "icon": "🎯",
+      "iconColor": "#26de81",
+      "downloadUrl": "https://pan.xunlei.com/s/VOVSSAbJhT6omhcVs0MwgzsHA1?pwd=jk5q#",
+      "date": "07.18",
+      "instructions": "超自然行动组 凉墨公益插件\n只适配1.16.30.001版本\n适配框架 root 虚拟机\n#超自然行动组 #凉墨 #插件 #辅助"
+    },
+    {
+      "name": "三角洲赫一公益端口",
+      "description": "三角洲赫一公益端口，账号密码都是 heyy",
+      "icon": "🎮",
+      "iconColor": "#ff6b6b",
+      "downloadUrl": "https://pan.xunlei.com/s/VOVSRQLag6Vcb7iH9ychNawGA1?pwd=wx7r#",
+      "date": "07.18",
+      "instructions": "三角洲赫一公益端口\n账号密码都是 heyy\n#三角洲 #端口 #赫一"
+    },
+    {
       "name": "三角洲林羽江颜公益内核辅助",
       "description": "修复无法正常对接KPM的问题",
       "icon": "🎮",
