@@ -1,76 +1,31 @@
 {
   "tools": [
     {
+      "name": "英雄联盟动态换肤",
+      "description": "随时换肤，无限次换肤",
+      "icon": "🖥️",
+      "iconColor": "#6c5ce7",
+      "downloadUrl": "https://wwva.lanzouq.com/i8MUW31azfza",
+      "date": "07.18",
+      "instructions": "你的英雄、守卫、其他玩家英雄、塔、小兵和丛林怪物的皮肤。单场游戏随时换肤，无限次换肤。"
+    },
+    {
       "name": "CS2-Rensen透视自瞄演技多功能外部辅助",
       "description": "透视自瞄演技多功能外部辅助",
       "icon": "⚔️",
       "iconColor": "#ff6b6b",
       "downloadUrl": "https://pan.xunlei.com/s/VOVP2L4s18jPz61GaZ5ZlG0QA1?pwd=ja9a#",
-      "date": "07.18"
+      "date": "07.18",
+      "instructions": "使用教程\n解压到桌面\n先打开游戏，以管理员方式运行辅助即可\n点击insert键开关菜单,设置里面退出菜单"
     },
     {
-      "name": "CSGO准星优化器",
-      "description": "自定义CSGO准星样式，提升瞄准精度",
+      "name": "鸣潮Blackshores多功能2.4.7国服/国际服",
+      "description": "支持最新版本游戏",
       "icon": "🎯",
       "iconColor": "#00b894",
-      "downloadUrl": "https://example.com/pc/csgo-crosshair",
-      "date": "07.18"
-    },
-    {
-      "name": "游戏优化大师",
-      "description": "一键优化系统性能，提升游戏帧率",
-      "icon": "🖥️",
-      "iconColor": "#6c5ce7",
-      "downloadUrl": "https://example.com/pc/game-optimizer",
-      "date": "07.18"
-    },
-    {
-      "name": "Valorant无后座",
-      "description": "Valorant射击无后座力辅助工具",
-      "icon": "🔫",
-      "iconColor": "#fd79a8",
-      "downloadUrl": "https://example.com/pc/valorant-norecoil",
-      "date": "07.17"
-    },
-    {
-      "name": "硬件监控专家",
-      "description": "实时显示CPU、GPU使用率和温度",
-      "icon": "📊",
-      "iconColor": "#e17055",
-      "downloadUrl": "https://example.com/pc/hardware-monitor",
-      "date": "07.17"
-    },
-    {
-      "name": "Steam游戏加速",
-      "description": "优化Steam下载速度和游戏启动",
-      "icon": "🚀",
-      "iconColor": "#a55eea",
-      "downloadUrl": "https://example.com/pc/steam-accelerator",
-      "date": "07.17"
-    },
-    {
-      "name": "Apex透视辅助",
-      "description": "Apex Legends透视和自瞄辅助",
-      "icon": "👁️",
-      "iconColor": "#26de81",
-      "downloadUrl": "https://example.com/pc/apex-esp",
-      "date": "07.16"
-    },
-    {
-      "name": "游戏录制工具",
-      "description": "高质量游戏录制与直播推流",
-      "icon": "📹",
-      "iconColor": "#74b9ff",
-      "downloadUrl": "https://example.com/pc/game-recorder",
-      "date": "07.16"
-    },
-    {
-      "name": "FPS显示器",
-      "description": "实时显示游戏帧率和延迟信息",
-      "icon": "📈",
-      "iconColor": "#00cec9",
-      "downloadUrl": "https://example.com/pc/fps-counter",
-      "date": "07.15"
+      "downloadUrl": "https://pan.xunlei.com/s/VOVP2L4s18jPz61GaZ5ZlG0QA1?pwd=ja9a#",
+      "date": "07.18",
+      "instructions": "使用教程\n解压文件夹，选择对应的服务器文件夹 China为国服\n以管理员方式运行Launcher.exe\n选择自己对应的游戏路径Wuthering Waves\Wuthering Waves Game\Client\Binaries\Win64\Client-Win64-Shipping.exe\nX键开启菜单，在门口等菜单加载好再进门"
     }
   ]
 }
