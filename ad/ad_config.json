@@ -3,7 +3,7 @@
   "adUrl": "https://coconut-pro.github.io/Game/",
   "duration": 3,
   "skippable": true,
-  "skipDelay": 5,
+  "skipDelay": 2,
   "title": "精彩内容",
   "description": "为您推荐优质内容",
   "wifiOnly": false,
