@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "adUrl": "https://your-username.github.io/your-ad-page/index.html",
+  "duration": 10,
+  "skippable": true,
+  "skipDelay": 5,
+  "title": "精彩内容",
+  "description": "为您推荐优质内容",
+  "wifiOnly": false,
+  "version": "1.0"
+}
